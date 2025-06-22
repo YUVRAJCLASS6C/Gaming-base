@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -lm -O0 -shared -Wl,-soname,libmalloc_l.so -o libmalloc_l.so CMakeFiles/malloc_l.dir/alloc/alloc.c.o  -lm /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libSDL2.so 
